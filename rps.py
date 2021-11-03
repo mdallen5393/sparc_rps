@@ -2,6 +2,7 @@
 # The user inputs R, P, or S, and the "computer" outputs R, P, or S.
 # 
 # Ideas: scoreboard?
+#   - Use prediction
 import random, time
 
 answers = ('r', 'p', 's')
